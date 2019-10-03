@@ -29,11 +29,15 @@ div#description p {
   padding-right: 500px;
 }
 
+section#details {
+  text-align: center;
+}
+
 section#details div {
   display: block;
   float: left;
   background: #ffb3b3;
-  
+
 }
 
 a.details-link {
