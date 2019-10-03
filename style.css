@@ -35,6 +35,6 @@ section#details div {
   background: #ffb3b3;
 }
 
-section#details div p {
+a.details-link {
   background: #ffb3b3;
 }
