@@ -23,6 +23,7 @@ figcaption {
   font-size: .8em;
 }
 
+
 div#description p {
   padding-left: 500px;
   padding-right: 500px;
@@ -31,5 +32,9 @@ div#description p {
 section#details div {
   display: block;
   float: left;
-  background: #ffb3b3
+  background: #ffb3b3;
+}
+
+section#details div p {
+  background: #ffb3b3;
 }
