@@ -28,6 +28,6 @@ div#description p {
   padding-right: 500px;
 }
 
-section#details {
+section#details div {
   display: block;
 }
