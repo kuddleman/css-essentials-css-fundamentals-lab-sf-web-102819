@@ -23,6 +23,7 @@ figcaption {
   font-size: .8em;
 }
 
-div#description {
-  text-align: center;
+div#description p {
+  padding-left: 200px;
+  padding-right: 200px;
 }
