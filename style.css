@@ -31,4 +31,5 @@ div#description p {
 section#details div {
   display: block;
   float: left;
+  background: #ffb3b3
 }
