@@ -11,6 +11,7 @@ header {
 a {
   padding-left: 10px;
   padding-right: 10px;
+  background: grey;
 }
 
 section#featured-property {
