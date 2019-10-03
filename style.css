@@ -18,3 +18,7 @@ section#featured-property {
   text-align: center;
 
 }
+
+figcaption {
+  font-size: .8em;
+}
