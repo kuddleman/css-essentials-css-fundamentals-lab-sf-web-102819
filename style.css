@@ -29,5 +29,5 @@ div#description p {
 }
 
 section#details {
-  
+  display: block;
 }
